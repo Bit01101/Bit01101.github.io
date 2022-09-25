@@ -79,7 +79,7 @@ input:-ms-input-placeholder {
     float: right;
 }
 .ing_compani:hover{
-    position:fixed;
+    transform: translateX(-50px);
 }
 /*Header*/
 .Header{
